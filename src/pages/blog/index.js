@@ -22,6 +22,8 @@ const BlogPage = ({ data }) => {
     </Layout>
   )
 }
+//
+
 
 export const query = graphql`
   query {
